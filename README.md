@@ -346,19 +346,3 @@ If you’d like to collaborate or reach out, visit my contact page: [Porify | 3P
         <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="S3">
     </marquee>
 </div>
-
-<style>
-.tools-marquee {
-  overflow: hidden;
-  width: 100%;
-  padding: 10px 0;
-  background-color: #1f2937; /* dark background */
-  border-radius: 10px;
-}
-
-/* Continuous scroll */
-@keyframes scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); } /* move half since we duplicated */
-}
-</style>
