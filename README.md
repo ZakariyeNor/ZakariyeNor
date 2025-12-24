@@ -300,6 +300,9 @@ If you’d like to collaborate or reach out, visit my contact page: [Porify | 3P
 
 <!-- Skilss area -->
 <!-- Continuous Loop Tools & Languages Marquee -->
+
+#### Technologies & Methodologies
+
 <div class="tools-marquee">
     <marquee behavior="scroll" direction="left" scrollamount="10">
         <!-- Original badges -->
